@@ -1,0 +1,28 @@
+Oppgave 1
+x= 0.5555, n= 1100
+Resultat: 1.4205927848586105E-281
+Tidsbruk: 54123
+Resultat: 1.4205927848586105E-281
+Tidsbruk: 68741
+Resultat: 1.4205927848586105E-281
+Tidsbruk: 52544
+Gjennomsnitt: 58469
+
+
+Oppgave 2:
+Resultat: 1.42059278485863E-281
+Tidsbruk: 3950
+Resultat: 1.42059278485863E-281
+Tidsbruk: 3951
+Resultat: 1.42059278485863E-281
+Tidsbruk: 3951
+Resultat: 1.42059278485863E-281
+Tidsbruk: 3555
+Gjennomsnitt: 3827
+
+Metode 2 er 15 ganger raskere.
+
+I oppgave 2, halvveres n hver gang.
+Mens man i oppgave 1 må gange x med x n ganger,
+så deles n/2 for hver rekursjon.
+
